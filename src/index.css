@@ -92,6 +92,7 @@ a {
 
 .card:hover {
     cursor: pointer;
+    box-shadow: 0px 1px 4px 2px #ddd;
 }
 
 .card > span {
