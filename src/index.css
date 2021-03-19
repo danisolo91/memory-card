@@ -139,3 +139,9 @@ a {
         border-bottom: 1px solid rgb(92, 238, 155);
     }
 }
+
+@media (max-width: 260px) {
+    .board {
+        grid-template-columns: 1fr 1fr;
+    }
+}
